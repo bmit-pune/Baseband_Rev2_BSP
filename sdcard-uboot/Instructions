@@ -1,0 +1,3 @@
+setenv dev 1
+setenv mmcroot /dev/mmcblk2p2 rootwait rw
+
